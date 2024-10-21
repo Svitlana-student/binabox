@@ -4,4 +4,4 @@ My first education lesson
 
 student - Svitlana Zaitseva (@Svitlana-student)
 
-mentor - Tatsiana Zuyevich 
+mentor - Tatsiana Zuyevich
