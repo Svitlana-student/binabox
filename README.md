@@ -2,6 +2,6 @@
 
 My first education lesson
 
-student - Svitlana Zaitseva (@Svitlana-student)
+student - Svitlana Zaitseva (@https://github.com/Svitlana-student)
 
-mentor - Tatsiana Zuyevich
+mentor - Tatsiana Zuyevich (@https://github.com/tatsianaZuyevich)
